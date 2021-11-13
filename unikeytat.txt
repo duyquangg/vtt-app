@@ -1,0 +1,13 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+667:https://www.facebook.com/help/contact/649167531904667
+792:https://business.facebook.com/help/contact/391647094929792
+acc1:https://www.facebook.com/accountquality/?landing_page=overview
+add1:https://www.facebook.com/ads/manager/account_settings/information
+bill1:https://www.facebook.com/ads/manager/account_settings/account_billing
+bm1:https://business.facebook.com/select
+date1:https://www.facebook.com/your_information/?tab=your_information&tile=personal_info_grouping
+ip1:https://whoer.net/
+ip2:https://whatismyipaddress.com/
+k273:https://www.facebook.com/help/contact/2026068680760273
+k902:https://www.facebook.com/help/contact/273898596750902  
+policy1:https://www.facebook.com/help/1735443093393986/?helpref=hc_global_nav
